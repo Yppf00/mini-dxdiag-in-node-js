@@ -1,0 +1,1 @@
+open the console for the specs [CTRL + `]
